@@ -5,7 +5,6 @@
 ![](https://img.shields.io/badge/C++-c++11,%20c++20-informational?style=flat&logo=c%2B%2B&logoColor=4d78c4&labelColor=dbdbdb)
 ![](https://img.shields.io/badge/C-c99-informational?style=flat&logo=c&logoColor=001c96&labelColor=dbdbdb)
 ![](https://img.shields.io/badge/CMake-3.17-informational?style=flat&logo=cmake&logoColor=darkgreen&labelColor=dbdbdb)
-![](https://img.shields.io/badge/Java-jdk15-informational?style=flat&logo=java&logoColor=c76d00&labelColor=dbdbdb)
 ![](https://img.shields.io/badge/python-3.9-informational?style=flat&logo=python&logoColor=0d4503&labelColor=dbdbdb)
 
 #### Tools, Technologies & APIs
